@@ -2,7 +2,7 @@
 
 # 👨‍💻 Alok Trivedi
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D9596&center=true&vCenter=true&random=false&width=435&lines=DevOps+Enthusiast;Python+Developer;Open+Source+Contributor;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D9596&center=true&vCenter=true&random=false&width=435&lines=DevOps+Learner;Python+Learner;Open+Source+Contributor;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 </div>
 
