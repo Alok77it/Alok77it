@@ -56,9 +56,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alok77it&theme=tokyonight&hide_border=true&layout=compact)
 
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Alok77it&theme=tokyonight&no-frame=true&row=1&column=5)
 
 ## 📈 Contribution Graph
 
