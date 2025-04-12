@@ -58,7 +58,7 @@
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Alok77it&theme=tokyonight&no-frame=true&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Alok77it&theme=tokyonight&no-frame=true&row=1&column=5)
 
 ## 📈 Contribution Graph
 
