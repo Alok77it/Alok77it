@@ -10,7 +10,7 @@
 
 > *"More Repositories than Stars in the Sky"* ✨
 
-- 🏢 DevOps Engineer at **Nobroker Technologies**
+- 🏢 System Engineer at **Nobroker Technologies**
 - 🔭 Working on automation and infrastructure optimization
 - 🌱 Currently learning **Python** & **DevOps** tools
 - 👯 Open to collaborate on Open Source & DevOps projects
