@@ -4,9 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=2D9596&center=true&vCenter=true&width=490&lines=DevOps+Learner;Python+Enthusiast;Cloud+Native+Engineer;Automation+Lover;Open+Source+Driven;Always+Learning+New+Things)](https://git.io/typing-svg)
 
-<!-- 🎉 Replace the below link with your own animated banner GIF if you want something custom! -->
-<img src="https://readme-animated-svg-banner.vercel.app/api?height=200&color1=2D9596&color2=242938&text=Welcome+to+Alok's+GitHub+Universe!+🚀"  width="100%"/>
-
 </div>
 
 ---
@@ -99,7 +96,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Alok77it&show_icons=true&theme=tokyonight&hide_border=true&custom_title=GitHub+Stats+%F0%9F%94%8E" alt="GitHub Stats" width="48%"/>
 
 <!-- Animated streak as lines only -->
-<img src="https://streak-stats.demolab.com?user=Alok77it&theme=tokyonight&hide_border=true&mode=weekly&border_radius=5.5&date_format=j%20M%5B%20Y%5D&stroke=2D9596&ring=2D9596&fire=F7A800&currStreakLabel=F7A800&background=242938&sideLabels=F7A800&currStreakNum=2D9596&dates=fff&sideNums=fff&currStreakNum=F7A800&lines=2D9596" alt="Animated GitHub Streak (Lines Only)" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=Alok77it&theme=tokyonight&hide_border=true&mode=weekly&border_radius=5.5&date_format=j%20M%5B%20Y%5D&stroke=2D9596&ring=2D9596&fire=F7A800&currStreakLabel=F7A800&background=242938&sideLabels=F7A800&currStreakNum=2D9596&dates=fff&sideNums=fff&currStreakNum=F7A800&lines=2D9596"/>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=900&color=F7A800&center=true&vCenter=true&width=410&lines=Active+Contributor;Pull+Requests+and+Reviews;Solving+Real+Problems;Continuous+Improvement" alt="Animated Stats"/>
 
