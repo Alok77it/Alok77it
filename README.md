@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=2D9596&center=true&vCenter=true&width=490&lines=DevOps+Learner;Python+Enthusiast;Cloud+Native+Engineer;Automation+Lover;Open+Source+Driven;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 <!-- 🎉 Replace the below link with your own animated banner GIF if you want something custom! -->
-<img src="https://readme-animated-svg-banner.vercel.app/api?height=200&color1=2D9596&color2=242938&text=Welcome+to+Alok's+GitHub+Universe!+🚀" alt="animated banner" width="100%"/>
+<img src="https://readme-animated-svg-banner.vercel.app/api?height=200&color1=2D9596&color2=242938&text=Welcome+to+Alok's+GitHub+Universe!+🚀"  width="100%"/>
 
 </div>
 
