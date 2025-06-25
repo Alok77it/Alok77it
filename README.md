@@ -38,7 +38,7 @@
         <b>Full-Stack-Kubernetes-App-with-CI-CD-on-Local-Kind-Cluster</b>
       </a>
       <br>
-      <sub>Shell | <b>Last commit: <!--K8S_COMMIT--></b></sub>
+      <sub>Shell</sub>
     </td>
     <td align="center">
       <a href="https://github.com/Alok77it/Python_practice_mini_project" target="_blank">
@@ -47,7 +47,7 @@
         <b>Python_practice_mini_project</b>
       </a>
       <br>
-      <sub>Python | <b>Last commit: <!--PYTHON_COMMIT--></b></sub>
+      <sub>Python</sub>
     </td>
     <td align="center">
       <a href="https://github.com/Alok77it/Nginx-Reverse-Proxy-Docker" target="_blank">
@@ -56,7 +56,7 @@
         <b>Nginx-Reverse-Proxy-Docker</b>
       </a>
       <br>
-      <sub>Dockerfile | <b>Last commit: <!--NGINX_COMMIT--></b></sub>
+      <sub>Dockerfile</sub>
     </td>
   </tr>
 </table>
@@ -181,7 +181,5 @@
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Alok77it&color=2D9596&style=flat-square)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=900&color=2D9596&center=true&vCenter=true&width=450&lines=Learning+is+a+journey+that+never+ends+%F0%9F%9A%80;Let's+build+the+future+together!" alt="Animated Footer"/>
 
 </div>
