@@ -1,25 +1,33 @@
 <div align="center">
 
-# 👨‍💻 Alok Trivedi
+# 👨‍💻 **Alok Trivedi**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=2D9596&center=true&vCenter=true&width=490&lines=DevOps+Learner;Python+Enthusiast;Cloud+Native+Engineer;Automation+Lover;Open+Source+Driven;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=2D9596&center=true&vCenter=true&width=480&lines=🚀+DevOps+Engineer+%7C+Pythonist+%7C+Cloud+Native+%7C+Automation+Lover;Open+Source+Contributor+%7C+Lifelong+Learner)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-> *"More Repositories than Stars in the Sky"* ✨
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Welcome%20to%20my%20Profile!&fontAlign=50&fontAlignY=40&desc=Let's%20Automate%20the%20Future!&descAlign=50&descAlignY=70"/>
 
-- 🔭 **Working on:** Automation, CI/CD, and infrastructure optimization  
-- 🌱 **Currently learning:** Python & DevOps tools  
-- 👯 **Open to collaborate:** Open Source & DevOps projects  
-- 💡 **Ask me about:** DevOps, Python, Infrastructure Automation  
+</div>
 
 ---
 
-## 🏅 <span style="color:#2D9596">Featured Project</span>
+## 🚀 **About Me**
+
+> *"More Repositories than Stars in the Sky ✨"*
+
+- 🔭 **Focused on:** Automation, CI/CD, Infrastructure Engineering  
+- 🌱 **Current Learning:** Python, DevOps Tools & Cloud Native  
+- 🤝 **Collab:** Open Source, Cloud, DevOps  
+- 💬 **Ask me about:** DevOps, Python, Infra Automation  
+
+---
+
+## 🏅 <span style="color:#2D9596">**Featured Project**</span>
 
 <div align="center">
 
@@ -44,7 +52,48 @@
 
 ---
 
-## 💎 <span style="color:#F7A800">Code Quality & Workflow</span>
+## 👑 <span style="color:#2D9596">**Currently Building**</span>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Alok77it/Full-Stack-Kubernetes-App-with-CI-CD-on-Local-Kind-Cluster" target="_blank">
+        <img src="https://skillicons.dev/icons?i=kubernetes,docker,jenkins,python,linux&theme=light" height="32"/>
+        <br>
+        <b>Full-Stack-Kubernetes-App-with-CI-CD-on-Local-Kind-Cluster</b>
+      </a>
+      <br>
+      <sub>Shell | <b>Updated: 2 min ago</b></sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Alok77it/Python_practice_mini_project" target="_blank">
+        <img src="https://skillicons.dev/icons?i=python,linux&theme=light" height="32"/>
+        <br>
+        <b>Python_practice_mini_project</b>
+      </a>
+      <br>
+      <sub>Python | <b>Updated: 1 hr ago</b></sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Alok77it/Nginx-Reverse-Proxy-Docker" target="_blank">
+        <img src="https://skillicons.dev/icons?i=docker,nginx&theme=light" height="32"/>
+        <br>
+        <b>Nginx-Reverse-Proxy-Docker</b>
+      </a>
+      <br>
+      <sub>Dockerfile | <b>Updated: 18 hrs ago</b></sub>
+    </td>
+  </tr>
+</table>
+<br>
+🎯 <sub>See all my work <a href="https://github.com/search?q=user:Alok77it&type=repositories&s=updated" target="_blank">here</a> (28+ repos!)</sub>
+</div>
+
+---
+
+## 💎 <span style="color:#F7A800">**Code Quality & Workflow**</span>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code%20Quality-High-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white"/>
@@ -66,7 +115,7 @@
 
 ---
 
-## 💻 <span style="color:#2D9596">Tech Stack</span>
+## 💻 <span style="color:#2D9596">**Tech Stack**</span>
 
 <div align="center">
 
@@ -77,7 +126,7 @@
 
 ---
 
-## 🌟 <span style="color:#F7A800">Most Used Languages</span>
+## 🌟 <span style="color:#F7A800">**Most Used Languages**</span>
 
 <div align="center">
 
@@ -89,13 +138,11 @@
 
 ---
 
-## 📊 <span style="color:#2D9596">GitHub Statistics</span>
+## 📊 <span style="color:#2D9596">**GitHub Statistics**</span>
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Alok77it&show_icons=true&theme=tokyonight&hide_border=true&custom_title=GitHub+Stats+%F0%9F%94%8E" alt="GitHub Stats" width="48%"/>
-
-<!-- Animated streak as lines only -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=900&color=F7A800&center=true&vCenter=true&width=410&lines=Active+Contributor;Pull+Requests+and+Reviews;Solving+Real+Problems;Continuous+Improvement" alt="Animated Stats"/>
 
@@ -103,7 +150,7 @@
 
 ---
 
-## 📈 <span style="color:#F7A800">Contribution Graph</span>
+## 📈 <span style="color:#F7A800">**Contribution Graph**</span>
 
 <div align="center">
 
@@ -114,7 +161,7 @@
 
 ---
 
-## 🌐 <span style="color:#2D9596">Connect With Me</span>
+## 🌐 <span style="color:#2D9596">**Connect With Me**</span>
 
 <div align="center">
 
