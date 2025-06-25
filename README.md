@@ -9,9 +9,7 @@
 ---
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Welcome%20to%20my%20Profile!&fontAlign=50&fontAlignY=40&desc=Let's%20Automate%20the%20Future!&descAlign=50&descAlignY=70"/>
-
 </div>
 
 ---
@@ -24,6 +22,70 @@
 - 🌱 **Current Learning:** Python, DevOps Tools & Cloud Native  
 - 🤝 **Collab:** Open Source, Cloud, DevOps  
 - 💬 **Ask me about:** DevOps, Python, Infra Automation  
+
+---
+
+## 👑 <span style="color:#2D9596">**Currently Building**</span>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Alok77it/Full-Stack-Kubernetes-App-with-CI-CD-on-Local-Kind-Cluster" target="_blank">
+        <img src="https://skillicons.dev/icons?i=kubernetes,docker,jenkins,python,linux&theme=light" height="32"/>
+        <br>
+        <b>Full-Stack-Kubernetes-App-with-CI-CD-on-Local-Kind-Cluster</b>
+      </a>
+      <br>
+      <sub>Shell | <b>Last commit: <!--K8S_COMMIT--></b></sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Alok77it/Python_practice_mini_project" target="_blank">
+        <img src="https://skillicons.dev/icons?i=python,linux&theme=light" height="32"/>
+        <br>
+        <b>Python_practice_mini_project</b>
+      </a>
+      <br>
+      <sub>Python | <b>Last commit: <!--PYTHON_COMMIT--></b></sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Alok77it/Nginx-Reverse-Proxy-Docker" target="_blank">
+        <img src="https://skillicons.dev/icons?i=docker,nginx&theme=light" height="32"/>
+        <br>
+        <b>Nginx-Reverse-Proxy-Docker</b>
+      </a>
+      <br>
+      <sub>Dockerfile | <b>Last commit: <!--NGINX_COMMIT--></b></sub>
+    </td>
+  </tr>
+</table>
+<br>
+🎯 <sub>See all my work <a href="https://github.com/search?q=user:Alok77it&type=repositories&s=updated" target="_blank">here</a> (28+ repos!)</sub>
+</div>
+
+---
+
+## 🏆 <span style="color:#F7A800">**Top 3 Best Repositories**</span>
+
+<div align="center">
+
+<a href="https://github.com/Alok77it/CI-CD-Pipeline-for-Flask_Django-App" target="_blank">
+  <img src="https://skillicons.dev/icons?i=jenkins,docker,python&theme=light" height="24"/>
+  <b>CI-CD-Pipeline-for-Flask_Django-App</b>
+</a>
+<br>
+<a href="https://github.com/Alok77it/Full-Stack-Kubernetes-App-with-CI-CD-on-Local-Kind-Cluster" target="_blank">
+  <img src="https://skillicons.dev/icons?i=kubernetes,python,docker&theme=light" height="24"/>
+  <b>Full-Stack-Kubernetes-App-with-CI-CD-on-Local-Kind-Cluster</b>
+</a>
+<br>
+<a href="https://github.com/Alok77it/Nginx-Reverse-Proxy-Docker" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nginx,docker&theme=light" height="24"/>
+  <b>Nginx-Reverse-Proxy-Docker</b>
+</a>
+
+</div>
 
 ---
 
@@ -52,47 +114,6 @@
 
 ---
 
-## 👑 <span style="color:#2D9596">**Currently Building**</span>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Alok77it/Full-Stack-Kubernetes-App-with-CI-CD-on-Local-Kind-Cluster" target="_blank">
-        <img src="https://skillicons.dev/icons?i=kubernetes,docker,jenkins,python,linux&theme=light" height="32"/>
-        <br>
-        <b>Full-Stack-Kubernetes-App-with-CI-CD-on-Local-Kind-Cluster</b>
-      </a>
-      <br>
-      <sub>Shell | <b>Updated: 2 min ago</b></sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Alok77it/Python_practice_mini_project" target="_blank">
-        <img src="https://skillicons.dev/icons?i=python,linux&theme=light" height="32"/>
-        <br>
-        <b>Python_practice_mini_project</b>
-      </a>
-      <br>
-      <sub>Python | <b>Updated: 1 hr ago</b></sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Alok77it/Nginx-Reverse-Proxy-Docker" target="_blank">
-        <img src="https://skillicons.dev/icons?i=docker,nginx&theme=light" height="32"/>
-        <br>
-        <b>Nginx-Reverse-Proxy-Docker</b>
-      </a>
-      <br>
-      <sub>Dockerfile | <b>Updated: 18 hrs ago</b></sub>
-    </td>
-  </tr>
-</table>
-<br>
-🎯 <sub>See all my work <a href="https://github.com/search?q=user:Alok77it&type=repositories&s=updated" target="_blank">here</a> (28+ repos!)</sub>
-</div>
-
----
-
 ## 💎 <span style="color:#F7A800">**Code Quality & Workflow**</span>
 
 <p align="center">
@@ -104,9 +125,7 @@
 </p>
 
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=900&color=00FFD5&center=true&vCenter=true&width=400&lines=Clean+%26+Modular+Code;Automated+Testing+%26+Linting;CI%2FCD+Pipelines;Production+Ready;Best+DevOps+Practices" alt="Animated Code Quality"/>
-
 </div>
 
 - I write **clean**, **modular**, and **well-documented** code.
@@ -118,9 +137,7 @@
 ## 💻 <span style="color:#2D9596">**Tech Stack**</span>
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=python,docker,jenkins,git,linux,bash,kubernetes,aws,githubactions&theme=light" alt="Skill Icons" /><br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=900&color=F7A800&center=true&vCenter=true&width=410&lines=Python+%F0%9F%90%8D;Docker+%F0%9F%9A%A2;Jenkins+%F0%9F%94%A7;Kubernetes+%F0%9F%90%8B;Linux+%F0%9F%90%BC;AWS+%F0%9F%9A%80;Git+%F0%9F%92%BE;Bash+%F0%9F%92%A9;and+more..." alt="Animated Tech Stack"/>
 </div>
 
@@ -129,11 +146,8 @@
 ## 🌟 <span style="color:#F7A800">**Most Used Languages**</span>
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alok77it&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&custom_title=Most+Used+Languages+🚀" alt="Top Languages"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=900&color=00FFD5&center=true&vCenter=true&width=410&lines=Python;Shell+Bash;JavaScript;YAML;Dockerfile;Groovy;SQL;and+growing..." alt="Animated Languages"/>
-
 </div>
 
 ---
@@ -141,11 +155,8 @@
 ## 📊 <span style="color:#2D9596">**GitHub Statistics**</span>
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Alok77it&show_icons=true&theme=tokyonight&hide_border=true&custom_title=GitHub+Stats+%F0%9F%94%8E" alt="GitHub Stats" width="48%"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=900&color=F7A800&center=true&vCenter=true&width=410&lines=Active+Contributor;Pull+Requests+and+Reviews;Solving+Real+Problems;Continuous+Improvement" alt="Animated Stats"/>
-
 </div>
 
 ---
@@ -153,10 +164,8 @@
 ## 📈 <span style="color:#F7A800">**Contribution Graph**</span>
 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alok77it&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=900&color=2D9596&center=true&vCenter=true&width=400&lines=Consistent+Commits;PRs+%26+Issues;Open+Source+Enthusiast;Let's+Connect+and+Collaborate!" alt="Animated Contributions"/>
-
 </div>
 
 ---
