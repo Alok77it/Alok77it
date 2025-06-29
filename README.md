@@ -32,13 +32,22 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Alok77it/Full-Stack-Kubernetes-App-with-CI-CD-on-Local-Kind-Cluster" target="_blank">
-        <img src="https://skillicons.dev/icons?i=kubernetes,docker,jenkins,python,linux&theme=light" height="32"/>
+      <a href="https://github.com/Alok77it/Docker-n8n-Assistant" target="_blank">
+        <img src="https://skillicons.dev/icons?i=docker,python,linux&theme=light" height="32"/>
         <br>
-        <b>Full-Stack-Kubernetes-App-with-CI-CD-on-Local-Kind-Cluster</b>
+        <b>Docker-n8n-Assistant</b>
       </a>
       <br>
-      <sub>Shell</sub>
+      <sub>Python, Docker</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Alok77it/InfraCopilot" target="_blank">
+        <img src="https://skillicons.dev/icons?i=python,aws,linux&theme=light" height="32"/>
+        <br>
+        <b>InfraCopilot</b>
+      </a>
+      <br>
+      <sub>Python, Cloud</sub>
     </td>
     <td align="center">
       <a href="https://github.com/Alok77it/Python_practice_mini_project" target="_blank">
@@ -48,15 +57,6 @@
       </a>
       <br>
       <sub>Python</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Alok77it/Nginx-Reverse-Proxy-Docker" target="_blank">
-        <img src="https://skillicons.dev/icons?i=docker,nginx&theme=light" height="32"/>
-        <br>
-        <b>Nginx-Reverse-Proxy-Docker</b>
-      </a>
-      <br>
-      <sub>Dockerfile</sub>
     </td>
   </tr>
 </table>
@@ -70,19 +70,19 @@
 
 <div align="center">
 
-<a href="https://github.com/Alok77it/CI-CD-Pipeline-for-Flask_Django-App" target="_blank">
-  <img src="https://skillicons.dev/icons?i=jenkins,docker,python&theme=light" height="24"/>
-  <b>CI-CD-Pipeline-for-Flask_Django-App</b>
-</a>
-<br>
-<a href="https://github.com/Alok77it/Full-Stack-Kubernetes-App-with-CI-CD-on-Local-Kind-Cluster" target="_blank">
-  <img src="https://skillicons.dev/icons?i=kubernetes,python,docker&theme=light" height="24"/>
-  <b>Full-Stack-Kubernetes-App-with-CI-CD-on-Local-Kind-Cluster</b>
+<a href="https://github.com/Alok77it/Docker-n8n-Assistant" target="_blank">
+  <img src="https://skillicons.dev/icons?i=docker,python&theme=light" height="24"/>
+  <b>Docker-n8n-Assistant</b>
 </a>
 <br>
 <a href="https://github.com/Alok77it/Nginx-Reverse-Proxy-Docker" target="_blank">
   <img src="https://skillicons.dev/icons?i=nginx,docker&theme=light" height="24"/>
   <b>Nginx-Reverse-Proxy-Docker</b>
+</a>
+<br>
+<a href="https://github.com/Alok77it/Full-Stack-Kubernetes-App-with-CI-CD-on-Local-Kind-Cluster" target="_blank">
+  <img src="https://skillicons.dev/icons?i=kubernetes,python,docker&theme=light" height="24"/>
+  <b>Full-Stack-Kubernetes-App-with-CI-CD-on-Local-Kind-Cluster</b>
 </a>
 
 </div>
@@ -93,20 +93,20 @@
 
 <div align="center">
 
-<a href="https://github.com/Alok77it/CI-CD-Pipeline-for-Flask_Django-App" target="_blank">
+<a href="https://github.com/Alok77it/Docker-n8n-Assistant" target="_blank">
   <img align="left" height="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker Logo" style="padding-right:10px;"/>
 </a>
 
-### 🚀 [CI/CD Pipeline for Flask & Django Apps](https://github.com/Alok77it/CI-CD-Pipeline-for-Flask_Django-App)
+### 🚀 [Docker-n8n-Assistant](https://github.com/Alok77it/Docker-n8n-Assistant)
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=00FFD5&repeat=false&width=430&lines=Jenkins+%7C+Docker+%7C+Python+%7C+CI%2FCD+Automation;Code+Quality+%7C+Production+Ready" alt="project stack animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=00FFD5&repeat=false&width=430&lines=Docker+%7C+n8n+%7C+Python+%7C+Automation+Workflows;Production+Ready+%7C+Extensible" alt="project stack animation"/>
 </p>
 <ul>
-  <li>🚢 <b>End-to-end CI/CD pipeline</b> with Jenkins & Docker</li>
-  <li>✅ Automated testing, linting, deployment for Flask & Django</li>
-  <li>🔒 Code quality enforced: <b>flake8</b>, <b>pytest</b>, coverage reports</li>
-  <li>⚡ Clean, modular, and maintainable code structure</li>
-  <li>📦 Optimized Docker images & automated infra workflows</li>
+  <li>🚢 <b>Automated n8n workflow orchestration</b> with Docker & Python</li>
+  <li>✅ Integrate, extend, and automate business logic using n8n</li>
+  <li>🔒 Secure, modular, and scalable deployment templates</li>
+  <li>⚡ Easy-to-use, developer-friendly, and production ready</li>
+  <li>📦 Customizable Docker images & workflow templates</li>
 </ul>
 <br clear="left">
 
