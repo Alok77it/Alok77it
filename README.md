@@ -152,13 +152,6 @@
 
 ---
 
-## 📊 <span style="color:#2D9596">**GitHub Statistics**</span>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Alok77it&show_icons=true&theme=tokyonight&hide_border=true&custom_title=GitHub+Stats+%F0%9F%94%8E" alt="GitHub Stats" width="48%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=900&color=F7A800&center=true&vCenter=true&width=410&lines=Active+Contributor;Pull+Requests+and+Reviews;Solving+Real+Problems;Continuous+Improvement" alt="Animated Stats"/>
-</div>
-
 ---
 
 ## 📈 <span style="color:#F7A800">**Contribution Graph**</span>
