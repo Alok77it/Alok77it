@@ -2,15 +2,11 @@
 
 # 👨‍💻 **Alok Trivedi**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=2D9596&center=true&vCenter=true&width=480&lines=🚀+DevOps+Engineer+%7C+Pythonist+%7C+Cloud+Native+%7C+Automation+Lover;Open+Source+Contributor+%7C+Lifelong+Learner)](https://git.io/typing-svg)
-
 </div>
 
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Welcome%20to%20my%20Profile!&fontAlign=50&fontAlignY=40&desc=Let's%20Automate%20the%20Future!&descAlign=50&descAlignY=70"/>
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmRjNnI0ZWphd2t2aDhhdGJleGJ0bWl5dmw2b2Jyb2d1cnF0bG9jciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="400" alt="DevOps Animation">
+</p>
 
 ---
 
@@ -19,8 +15,8 @@
 > *"More Repositories than Stars in the Sky ✨"*
 
 - 🔭 **Focused on:** Automation, CI/CD, Infrastructure Engineering  
-- 🌱 **Current Learning:** Python, DevOps Tools & Cloud Native  
-- 🤝 **Collab:** Open Source, Cloud, DevOps  
+- 🌱 **Currently Learning:** Python, DevOps Tools & Cloud Native  
+- 🤝 **Collaboration:** Open Source, Cloud, DevOps  
 - 💬 **Ask me about:** DevOps, Python, Infra Automation  
 
 ---
@@ -38,7 +34,7 @@
         <b>Docker-n8n-Assistant</b>
       </a>
       <br>
-      <sub>Python, Docker</sub>
+      <sub>🐳 Python, Docker</sub>
     </td>
     <td align="center">
       <a href="https://github.com/Alok77it/InfraCopilot" target="_blank">
@@ -47,7 +43,7 @@
         <b>InfraCopilot</b>
       </a>
       <br>
-      <sub>Python, Cloud</sub>
+      <sub>☁️ Python, Cloud</sub>
     </td>
     <td align="center">
       <a href="https://github.com/Alok77it/Python_practice_mini_project" target="_blank">
@@ -56,7 +52,7 @@
         <b>Python_practice_mini_project</b>
       </a>
       <br>
-      <sub>Python</sub>
+      <sub>🐍 Python</sub>
     </td>
   </tr>
 </table>
@@ -125,6 +121,8 @@
 </p>
 
 <div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJjM2J4ajh2bGJ1dnZ3bGJjZGN0cXQ4dW5rb2w1NDlwMGQyZ2h5MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT0xeJpnrWC4XWblEk/giphy.gif" width="320" alt="Automation Animation"/>
+<br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=900&color=00FFD5&center=true&vCenter=true&width=400&lines=Clean+%26+Modular+Code;Automated+Testing+%26+Linting;CI%2FCD+Pipelines;Production+Ready;Best+DevOps+Practices" alt="Animated Code Quality"/>
 </div>
 
@@ -137,6 +135,7 @@
 ## 💻 <span style="color:#2D9596">**Tech Stack**</span>
 
 <div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVybjE4aTBrb3B6b2V1Z3duOG5mYXY0N3d6Y2ZrN3J4dG9vaDc1MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aCVpH6w5R7v6TnC/giphy.gif" width="320" alt="Tech Stack Animation"/><br/>
 <img src="https://skillicons.dev/icons?i=python,docker,jenkins,git,linux,bash,kubernetes,aws,githubactions&theme=light" alt="Skill Icons" /><br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=900&color=F7A800&center=true&vCenter=true&width=410&lines=Python+%F0%9F%90%8D;Docker+%F0%9F%9A%A2;Jenkins+%F0%9F%94%A7;Kubernetes+%F0%9F%90%8B;Linux+%F0%9F%90%BC;AWS+%F0%9F%9A%80;Git+%F0%9F%92%BE;Bash+%F0%9F%92%A9;and+more..." alt="Animated Tech Stack"/>
 </div>
@@ -152,12 +151,12 @@
 
 ---
 
----
-
 ## 📈 <span style="color:#F7A800">**Contribution Graph**</span>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alok77it&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3k1ejFhcnA4ajRjZGNkN2l6bmQ1d3VyZDR6d3A3Z2c4M29jZ3N1ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="320" alt="Contribution Animation"/>
+<br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=900&color=2D9596&center=true&vCenter=true&width=400&lines=Consistent+Commits;PRs+%26+Issues;Open+Source+Enthusiast;Let's+Connect+and+Collaborate!" alt="Animated Contributions"/>
 </div>
 
